@@ -69,7 +69,7 @@ pi
 pu
 pe
 po
-(pause)
+pause
 kya
 kyu
 kyo
