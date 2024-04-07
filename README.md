@@ -14,7 +14,7 @@ Just use ``./install.sh`` or put it in your zshrc (or other shell) manually
 
 Example:
 ```
-memoryshell.sh ./data/hiragana_questions.txt ./data/hiragana_answers 0
+./memoryshell.sh ./data/hiragana_questions.txt ./data/hiragana_answers.txt 0
 ```
 
 ## How to create dataset
