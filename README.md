@@ -17,5 +17,10 @@ Example:
 ./memoryshell.sh ./data/hiragana_questions.txt ./data/hiragana_answers.txt 0
 ```
 
+Or start with preset:
+```
+./start.sh
+```
+
 ## How to create dataset
-It's rather simple, you need two files with the same number of lines. In these two files question in question-file in line 3 has his answer in answer-file in line 3.
+It's rather simple, you need two files with the same number of lines. For example: answer for a question in first file have to be in the same line in the second file. 
