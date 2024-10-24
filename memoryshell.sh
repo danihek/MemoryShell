@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env sh
 
 questions=data/questions.txt
 answers=data/answers.txt

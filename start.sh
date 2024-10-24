@@ -1,7 +1,10 @@
-#!/bin/bash
+#!/usr/bin/env sh
 
-path=/home/$USER/.config/memoryshell/memoryshell.sh 
-questions=/home/$USER/.config/memoryshell/data/katakana_questions.txt 
-answers=/home/$USER/.config/memoryshell/data/katakana_answers.txt
+msPath=/home/$USER/.config/memoryshell
+
 arg=0
+path=$msPath/memoryshell.sh 
+questions=$msPath/data/katakana_questions.txt 
+answers=$msPath/data/katakana_answers.txt
+
 $path $questions $answers $arg
